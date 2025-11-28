@@ -46,6 +46,7 @@ python3 -m pip uninstall pyTelegramBotAPI
 راه اندازی ربات:
 
 nohup python3 bot.py & 
+
 python3 bot.py
 
 متوقف کردن ربات:
