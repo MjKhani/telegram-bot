@@ -38,6 +38,7 @@ chmod +x start_bot.sh
 مشاهده ورژن نصب شده:
 
 python3 --version
+
 python3 -m pip --version
 
 نصب کتابخانه:
