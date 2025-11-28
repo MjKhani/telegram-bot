@@ -16,7 +16,6 @@
 
 ابتدا در ترمینال هاست به مسیر فایل اپلود شده بروید:
 cd /home/Username/public_html/telegram-bot
-
 دسترسی دادن به فایل:
 chmod +x start_bot.sh
 مشاهده ورژن نصب شده:
