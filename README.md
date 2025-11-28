@@ -43,7 +43,8 @@ python3 -m pip --version
 
 نصب کتابخانه:
 
-pip install --user -r requirements.txt 
+pip install --user -r requirements.txt
+
 python3 -m pip install --user -r requirements.txt
 
 در صورت عدم نصب با دستور بالا:
